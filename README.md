@@ -16,8 +16,8 @@ I created this tool to label images based on a practical need. In my case, I obt
 #### Other Features
 - Zoom in and out
 - Pan the image
-- undo the rectangle
-- __automatically convert the coordinates to the original image coordinates__
+- Ando the rectangle
+- __Automatically convert the coordinates to the original image coordinates__
 
 ### Installation
 - Clone the repository
@@ -31,9 +31,9 @@ pip install -r requirements.txt
 ```bash
 python3 main.py
 ```
-- click on the `Load Image` button to load the covariance matrix
-- draw a rectangle around the high covariance areas
-- click on the `undo` button to remove the last rectangle
-- click on the `Save` button to save the labeled areas to a json/txt file
+- Click on the `Load Image` button to load the covariance matrix
+- Draw a rectangle around the high covariance areas
+- Click on the `undo` button to remove the last rectangle
+- Click on the `Save` button to save the labeled areas to a json/txt file
 
 
